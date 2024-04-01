@@ -1,5 +1,7 @@
 package easy.P_141
 
+import structure.ListNode
+
 /**
  * packageName    : easy.P_141
  * fileName       : Solution
